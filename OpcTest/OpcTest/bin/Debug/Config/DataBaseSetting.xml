@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--当前数据库连接设置信息——(安徽)合肥工业大学-->
+<data>
+   <server_name>.</server_name>
+   <server_ip>.</server_ip>
+   <db_name>OPCTEST</db_name>
+   <username>sa</username>
+   <password>sa123</password>
+</data>             
